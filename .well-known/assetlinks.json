@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zludany.renovision3d",
+      "sha256_cert_fingerprints": [
+        "88:A8:16:EB:8A:7E:29:47:CC:A3:71:E7:4E:41:B5:09:E7:5A:55:36:CE:8F:90:2A:20:B1:39:8F:D6:B4:76:CD"
+      ]
+    }
+  }
+]
